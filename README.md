@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aditi%20Sharma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Aspiring%20ML%2FAI%20Engineer&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=Aditi%20Sharma&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Frontend%20Developer%20%C2%B7%20Aspiring%20ML%2FAI%20Engineer&descAlignY=56&descSize=18" width="100%" />
+
+<a href="https://github.com/aquaaditi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%40+Alerteefy;Building+RAG+pipelines+with+Python;Shipping+to+Google+Cloud+Run;Aspiring+ML%2FAI+Engineer" alt="Typing intro" /></a>
 
 <a href="https://www.linkedin.com/in/aditi-sharma-b55b9128a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aditisharma22405@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -66,12 +68,12 @@ I build clean, responsive web interfaces and I'm working my way toward machine l
 ### 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aquaaditi&show_icons=true&hide_border=true&theme=transparent&title_color=2c5364&icon_color=2c5364" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquaaditi&layout=compact&hide_border=true&theme=transparent&title_color=2c5364" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aquaaditi&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&icon_color=ff6ec4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquaaditi&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquaaditi&hide_border=true&theme=transparent&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquaaditi&hide_border=true&theme=transparent&ring=a78bfa&fire=ff6ec4&currStreakLabel=a78bfa" />
 </div>
 
 ---
@@ -80,6 +82,6 @@ I build clean, responsive web interfaces and I'm working my way toward machine l
 
 **Let's connect.** I'm open to frontend, full-stack and ML/AI roles.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4adede,50:7873f5,100:ff6ec4&height=100&section=footer" width="100%" />
 
 </div>
